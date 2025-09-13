@@ -43,7 +43,7 @@ npm --version
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/party-menu-app.git
+   git clone [https://github.com/your-username/party-menu-app.git](https://github.com/Surya413413/TheChefkart-Party-Menu-Selection-App-frontend.git)
    cd party-menu-app
    ```
 

@@ -1,0 +1,36 @@
+.link {
+  text-decoration: none;
+}
+.my-cart {
+  font-size: 18px;
+  color: #0d0c0c8f;
+}
+.content-cart {
+  padding: 20px;
+}
+.h-line {
+  width: 100%;
+  background-color: #9a9696;
+  border-width: 0.1px;
+  color: #e1d7d7;
+  border-style: solid;
+}
+.cart-elements {
+  display: flex;
+  flex-direction: column;
+}
+.remove-btn {
+  align-self: flex-end;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: rgb(36, 131, 232);
+  font-size: 18px;
+  font-weight: 530;
+}
+
+@media screen and (min-width: 768px) {
+  .my-cart {
+    font-size: 35px;
+  }
+}

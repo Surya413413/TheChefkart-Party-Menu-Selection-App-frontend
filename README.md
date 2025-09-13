@@ -67,7 +67,7 @@ npm --version
 
 4. **Open your browser**
    
-   The app will automatically open at [http://localhost:3000](http://localhost:3000)
+   The app will automatically open at https://the-chefkart-party-menu-selection-a.vercel.app/
 
 ## 📁 Project Structure
 
@@ -253,8 +253,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+- GitHub: https://github.com/Surya413413
+- LinkedIn: www.linkedin.com/in/banavath-suresh
 - Email: sureshnayak6695@gmail.com
 
 ## 🙏 Acknowledgments
